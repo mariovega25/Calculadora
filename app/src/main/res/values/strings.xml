@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcular_Radio</string>
+    <string name="Btn_Calc_R">Calcular</string>
+    <string name="id_Num1">Ingresa Numero</string>
+    <string name="id_Num2">Ingresa Numero</string>
+    <string name="id_Sum">Suma</string>
+    <string name="id_Res">Resta</string>
+    <string name="id_TxtV">Resultado</string>
+    <string name="Btn_Borrar">Borrar</string>
+</resources>
